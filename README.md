@@ -11,6 +11,6 @@ git clone https://github.com/CheneyZeng/udacity.git
 
 2. 安装reqirements.txt
 ```
-cd joyride/
+cd joy_ride/
 pip install -r requirements.txt 
 ```
