@@ -15,7 +15,7 @@ git clone https://github.com/CheneyZeng/udacity.git
 	对于 __Mac/OSX__：
 	
 	```bash
-  	cd joy_ride
+  	cd udacity/joy_ride
 	conda env create -f environment.yml
 	source activate joy_ride
 	```
@@ -23,7 +23,7 @@ git clone https://github.com/CheneyZeng/udacity.git
 	对于 __Windows__：
 	
 	```bash
-  	cd joy_ride
+  	cd udacity/joy_ride
 	conda env create -f environment.yml
 	activate joy_ride
 	```
