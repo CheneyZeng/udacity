@@ -9,8 +9,27 @@
 git clone https://github.com/CheneyZeng/udacity.git
 ```
 
-2. 安装reqirements.txt
+2. 安装必要的 Python 依赖包
+
+
+	对于 __Mac/OSX__：
+	
+	```bash
+  	cd udacity/joy_ride
+	conda env create -f environment.yml
+	source activate joy_ride
+	```
+
+	对于 __Windows__：
+	
+	```bash
+  	cd udacity/joy_ride
+	conda env create -f environment.yml
+	activate joy_ride
+	```
+	
+3. 打开 notebook
+
 ```
-cd joy_ride/
-pip install -r requirements.txt 
+jupyter notebook ParallelParking-zh.ipynb
 ```
